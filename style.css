@@ -1,0 +1,20 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+    text-align: center;  
+}
+
+#start {
+    background-color: black;
+    color: white;
+}
+
+#how {
+    text-align: left;
+}
+
+#end {
+    background-color: black;
+    color: white;
+}
+
